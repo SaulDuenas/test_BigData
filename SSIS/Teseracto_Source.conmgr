@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Teseracto_Source"
+  DTS:DTSID="{5A6E0A37-F92E-4F1A-B201-4275AABD55B8}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=oficina.teseracto.com;User ID=sa;Initial Catalog=SIMVOP;Persist Security Info=True;Application Name=SSIS-SSIS-{5A6E0A37-F92E-4F1A-B201-4275AABD55B8}oficina.teseracto.com.SIMVOP.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWaXXhbevvkigiSu10LGLaAAAAAACAAAAAAAQZgAAAAEAACAAAADMIyUbQ7dZtddKzFOX57Bf+ms1KjKC3AOMn1HvdqudTAAAAAAOgAAAAAIAACAAAAC+7pUgtRbgxzI+gSxMm8nY2FgU/P4ItmtwT7st8RggXYAAAAA7C/9XNrUAMyGi9EW28XXeHjlXPNXFxGu0RhoZqfY+SdDXZht8ux8W6mZmsv0U7yXZDwsBjFwMPmputgzUTARYqYOFFkk0iV2DW2INqh6+MOefL1ufXkulgl8tKzrG/dRWtVwrjJ1pjFblAAXhXTlESpmH/+qM00DqSJn+wHbnZkAAAAAAJlKu6y2v16W8bSduaH+ms6jCT0FXHc0rq5gr3vPtbU72HSJ62DQFZJy42IJXZe9eWeu7vKgiHETBKkUojCcw</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
